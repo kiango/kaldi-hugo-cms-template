@@ -1,6 +1,3 @@
-### * * *
-### This template is no longer maintained. [Check out one-click-hugo-cms instead.](https://github.com/netlify-templates/one-click-hugo-cms)
-### * * *
 
 ---
 
